@@ -1,0 +1,18 @@
+
+```Makefile
+CC=gcc
+CFLAGS=-Wall
+SOURCES=src/main.c
+TARGET=bin/main
+
+default: all
+
+all: build
+
+build:
+	$(CC) -o $(TARGET) $(SOURCES) $(CFLAGS);
+
+clean:
+	rm -v $(TARGET)
+	
+```
