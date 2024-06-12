@@ -4,37 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0ac6552791e6b635",
+        "id": "1de4d6b2bd155684",
         "type": "tabs",
         "children": [
           {
-            "id": "d809a1f2b60d685c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cpp/Cpp CMakeLists.txt template.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08002985b33036e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NeuralNetwork/Neuron.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f990e8e9f095bf9b",
+            "id": "6044f66a8d8e1b29",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,10 +147,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f990e8e9f095bf9b",
+  "active": "6044f66a8d8e1b29",
   "lastOpenFiles": [
-    "NeuralNetwork/Neural Network in c or c++.md",
     "NeuralNetwork/Neuron.md",
+    "NeuralNetwork/Neural Network in c or c++.md",
     "cpp/Cpp CMakeLists.txt template.md",
     "NeuralNetwork",
     "cpp/Templates.md",

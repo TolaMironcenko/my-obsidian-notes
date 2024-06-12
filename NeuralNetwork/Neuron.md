@@ -1,5 +1,5 @@
 
-## Neuron function
+## Neuron sigmoid function
 
 $$ e = 2.71828 $$
 
@@ -8,6 +8,7 @@ $$ f(x) = {1 \over 1 + {e^{-x}}} $$
 ## Neuron struct in c++
 
 ```cpp
+#include <iostream>
 #include <cmath>
 
 struct Neuron {
@@ -15,7 +16,7 @@ struct Neuron {
 	double error;
 	double e = 2.71828;
 	void act() {
-		value = (1 / (1 + pow(e, -value)));
+		value = (1 / (1 + exp(-value)));
 	}
 };
 
@@ -32,9 +33,9 @@ int main() {
 ## Neuron struct in c
 
 ```c
+#include <stdio.h>
+#include <stdlib.h>
 #include <math.h>
-
-#define e 2.71828
 
 struct Neuron {
 	double value;
@@ -42,7 +43,7 @@ struct Neuron {
 };
 
 void Neuron_act(struct Neuron *n) {
-	n->value = (1 / (1 + pow(e, -n->value)));
+	n->value = (1 / (1 + exp(-n->value)));
 }
 
 int main () {
