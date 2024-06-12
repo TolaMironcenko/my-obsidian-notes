@@ -12,5 +12,5 @@ add_executable(
     project_name   
     src/project_name.cpp 
 )  
-target_link_libraries(auth_service package-name::package-name)
+target_link_libraries(project_name package-name::package-name)
 ```
