@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NeuralNetwork/Neuron.md",
+                "file": "qemu/Using bridge.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d6c8fc0b0a38ab8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "work/Buildroot for wimic-6000U powerpc 8315.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NeuralNetwork/Neuron.md",
+                "file": "work/Buildroot for wimic-6000U powerpc 8315.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NeuralNetwork/Neuron.md",
+                "file": "work/Buildroot for wimic-6000U powerpc 8315.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NeuralNetwork/Neuron.md"
+                "file": "work/Buildroot for wimic-6000U powerpc 8315.md"
               }
             }
           }
@@ -147,14 +161,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6044f66a8d8e1b29",
+  "active": "1d6c8fc0b0a38ab8",
   "lastOpenFiles": [
+    "qemu/Using bridge.md",
+    "linux/Add new user.md",
+    "linux",
+    "work/Buildroot for wimic-6000U powerpc 8315.md",
     "NeuralNetwork/Neuron.md",
     "NeuralNetwork/Neural Network in c or c++.md",
     "cpp/Cpp CMakeLists.txt template.md",
     "NeuralNetwork",
     "cpp/Templates.md",
-    "work/Buildroot for wimic-6000U powerpc 8315.md",
     "Templates/Python Code Template.md",
     "Templates/List Template.md",
     "Templates/Cpp Code Template.md",
@@ -165,7 +182,6 @@
     "cpp/Cycles.md",
     "cpp/Cpp Makefile template.md",
     "cpp/Cpp cheatcheets.md",
-    "qemu/Using bridge.md",
     "Welcome.md",
     "Home/Some to do for bubbletime application.md",
     "work",
@@ -177,7 +193,6 @@
     "c/Structures.md",
     "c/Memory.md",
     "c/C Makefile template.md",
-    "c/C cheatcheet.md",
     "qemu",
     "img/Pasted image 20240610110729.jpg",
     "c",
@@ -185,7 +200,6 @@
     "Home",
     "cpp",
     "Arduino",
-    "Micro80",
     "img/photo_2024-06-10_11-50-52.jpg",
     "img/photo_2024-06-10_11-42-48.jpg",
     "img/photo_2024-06-10_11-37-35.jpg",
