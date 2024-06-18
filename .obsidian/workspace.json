@@ -11,11 +11,30 @@
             "id": "1d9761a5bf5b878f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home/Linux router.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10509e70ae922d40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home/Linux router.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home/Linux router.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home/Linux router.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home/Linux router.md"
+              }
             }
           }
         ]
@@ -138,19 +161,22 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1d9761a5bf5b878f",
+  "active": "10509e70ae922d40",
   "lastOpenFiles": [
+    "qemu/Using bridge.md",
+    "linux/Openssh install from source.md",
+    "linux/Add new user.md",
+    "Home/Linux router.md",
+    "Home/Services.md",
     "Welcome.md",
     "Home/Buy.md",
     "c/a = b, b = a.md",
     "work/Buildroot for wimic-6000U powerpc 8315.md",
-    "qemu/Using bridge.md",
     "c/Memory.md",
     "c/C CMakeLists.txt template.md",
     "c/C cheatcheet.md",
     "cpp/Cpp CMakeLists.txt template.md",
     "NeuralNetwork/Neuron.md",
-    "linux/Add new user.md",
     "linux",
     "NeuralNetwork/Neural Network in c or c++.md",
     "NeuralNetwork",
@@ -167,9 +193,6 @@
     "cpp/Cpp cheatcheets.md",
     "Home/Some to do for bubbletime application.md",
     "work",
-    "Micro80/Micro80software.md",
-    "Micro80/Micro 80 info.md",
-    "javascript/Funcs, Classes.md",
     "qemu",
     "img/Pasted image 20240610110729.jpg",
     "c",

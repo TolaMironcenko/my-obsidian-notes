@@ -5,3 +5,5 @@
 - Money
 - Navidrome (Music)
 - Dns
+- [[Linux router]]
+- 
