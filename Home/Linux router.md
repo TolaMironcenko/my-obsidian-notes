@@ -177,6 +177,13 @@ sudo iptables -A FORWARD -i eth1 -o eth0 -j ACCEPT
 sudo iptables-save > /etc/iptables/rules.v4
 ```
 
+alpine linux
+
+```bash
+doas /etc/init.d/iptables save
+doas rc-update add iptables
+```
+
 Для CentOS/RHEL вам может потребоваться использовать `iptables-service`или вручную настроить iptables для загрузки правил при запуске.
 
 #### 6. Настройте DHCP-сервер (необязательно).

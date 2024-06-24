@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "cd6a0531fea60f58",
+        "id": "41184e2741ed0243",
         "type": "tabs",
         "children": [
           {
-            "id": "859ffced08304f12",
+            "id": "f61d40868c41737c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home/Linux router.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home/Linux router.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home/Linux router.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home/Linux router.md"
+              }
             }
           }
         ]
@@ -138,9 +147,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "859ffced08304f12",
+  "active": "f61d40868c41737c",
   "lastOpenFiles": [
+    "work/SNMP.md",
+    "img/Pasted image 20240621143622.png",
+    "img/Pasted image 20240621144327.png",
+    "img/Pasted image 20240621144259.png",
+    "img/Pasted image 20240621144052.png",
+    "img/Pasted image 20240621143819.png",
+    "work/Buildroot for wimic-6000U powerpc 8315.md",
     "Home/Linux router.md",
+    "NeuralNetwork/Neural Network in c or c++.md",
     "qemu/Using bridge.md",
     "linux/Openssh install from source.md",
     "linux/Add new user.md",
@@ -148,14 +165,12 @@
     "Welcome.md",
     "Home/Buy.md",
     "c/a = b, b = a.md",
-    "work/Buildroot for wimic-6000U powerpc 8315.md",
     "c/Memory.md",
     "c/C CMakeLists.txt template.md",
     "c/C cheatcheet.md",
     "cpp/Cpp CMakeLists.txt template.md",
     "NeuralNetwork/Neuron.md",
     "linux",
-    "NeuralNetwork/Neural Network in c or c++.md",
     "NeuralNetwork",
     "cpp/Templates.md",
     "Templates/Python Code Template.md",
@@ -167,8 +182,6 @@
     "cpp/Funcs, Classes, Structures.md",
     "cpp/Cycles.md",
     "cpp/Cpp Makefile template.md",
-    "cpp/Cpp cheatcheets.md",
-    "Home/Some to do for bubbletime application.md",
     "work",
     "qemu",
     "img/Pasted image 20240610110729.jpg",
@@ -181,11 +194,6 @@
     "img/photo_2024-06-10_11-42-48.jpg",
     "img/photo_2024-06-10_11-37-35.jpg",
     "img/Pasted image 20240610112615.jpg",
-    "img/Pasted image 20240610112609.jpg",
-    "img/Pasted image 20240610112604.jpg",
-    "img/Pasted image 20240610112559.jpg",
-    "img/Pasted image 20240610112518.jpg",
-    "img/Pasted image 20240610112512.jpg",
     "Untitled.canvas"
   ]
 }
