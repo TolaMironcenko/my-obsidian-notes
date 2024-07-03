@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "d97d03341ceeb529",
+    "id": "91e8b698585913f4",
     "type": "split",
     "children": [
       {
-        "id": "41184e2741ed0243",
+        "id": "92767f4289bdfc26",
         "type": "tabs",
         "children": [
           {
-            "id": "f61d40868c41737c",
+            "id": "92ab42dda9145611",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,22 +19,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6e5455e99996716e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b6c61988cb547532",
+    "id": "b6d492bb0b091f1f",
     "type": "split",
     "children": [
       {
-        "id": "d737e99c3ecd1884",
+        "id": "cb0b09539ad551cc",
         "type": "tabs",
         "children": [
           {
-            "id": "c0170e5b73e504df",
+            "id": "05f3890a09b2dc79",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +53,7 @@
             }
           },
           {
-            "id": "55e74f97dd9e2e65",
+            "id": "b53d876597080797",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,7 +68,7 @@
             }
           },
           {
-            "id": "35a7fca973ade569",
+            "id": "5f1338dfdac62e17",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,44 +82,42 @@
     "width": 300
   },
   "right": {
-    "id": "9070ed7eb56e99be",
+    "id": "5e6a27475ae2d149",
     "type": "split",
     "children": [
       {
-        "id": "0557c6d7d5dfaf33",
+        "id": "5f36f98c0f51f836",
         "type": "tabs",
         "children": [
           {
-            "id": "9b262a9610cd3edb",
+            "id": "0205c05d4745ed52",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/Linux router.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "88c2af4fa1c9d781",
+            "id": "185f22b126605eae",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/Linux router.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4d16d78ab6eef428",
+            "id": "0d9e6735ea2e3ca4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,20 +128,19 @@
             }
           },
           {
-            "id": "3c960d32c5cdc90b",
+            "id": "4d43a33c266ec992",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home/Linux router.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,53 +153,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f61d40868c41737c",
+  "active": "6e5455e99996716e",
   "lastOpenFiles": [
-    "work/SNMP.md",
-    "img/Pasted image 20240621143622.png",
-    "img/Pasted image 20240621144327.png",
-    "img/Pasted image 20240621144259.png",
-    "img/Pasted image 20240621144052.png",
-    "img/Pasted image 20240621143819.png",
-    "work/Buildroot for wimic-6000U powerpc 8315.md",
-    "Home/Linux router.md",
-    "NeuralNetwork/Neural Network in c or c++.md",
-    "qemu/Using bridge.md",
-    "linux/Openssh install from source.md",
-    "linux/Add new user.md",
-    "Home/Services.md",
-    "Welcome.md",
-    "Home/Buy.md",
-    "c/a = b, b = a.md",
-    "c/Memory.md",
-    "c/C CMakeLists.txt template.md",
-    "c/C cheatcheet.md",
-    "cpp/Cpp CMakeLists.txt template.md",
-    "NeuralNetwork/Neuron.md",
-    "linux",
-    "NeuralNetwork",
-    "cpp/Templates.md",
-    "Templates/Python Code Template.md",
-    "Templates/List Template.md",
-    "Templates/Cpp Code Template.md",
-    "Templates/Checkboxes Template.md",
-    "Templates/C Code Template.md",
-    "Templates",
-    "cpp/Funcs, Classes, Structures.md",
-    "cpp/Cycles.md",
-    "cpp/Cpp Makefile template.md",
-    "work",
-    "qemu",
-    "img/Pasted image 20240610110729.jpg",
-    "c",
-    "javascript",
-    "Home",
-    "cpp",
-    "Arduino",
-    "img/photo_2024-06-10_11-50-52.jpg",
-    "img/photo_2024-06-10_11-42-48.jpg",
-    "img/photo_2024-06-10_11-37-35.jpg",
-    "img/Pasted image 20240610112615.jpg",
-    "Untitled.canvas"
+    "Home/GIT.md",
+    "Home/Linux router.md"
   ]
 }
