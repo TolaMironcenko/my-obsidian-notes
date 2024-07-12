@@ -6,4 +6,5 @@
 - Navidrome (Music)
 - Dns
 - [[Linux router]]
+- [[Linux printer server]]
 - 
