@@ -32,9 +32,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "23739a77551bb239",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/Linux router.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/Linux router.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home/Linux router.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -162,9 +166,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6e5455e99996716e",
+  "active": "23739a77551bb239",
   "lastOpenFiles": [
-    "Home/GIT.md",
-    "Home/Linux router.md"
+    "cpp/Cpp CMakeLists.txt template.md",
+    "qemu/Using bridge.md",
+    "c/C CMakeLists.txt template.md",
+    "Home/Linux router.md",
+    "Home/GIT.md"
   ]
 }
