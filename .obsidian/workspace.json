@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/Services.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e50f47909fb97e3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ssh/ssh keys.md",
+                "file": "Home/Linux printer server.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ssh/ssh keys.md",
+                "file": "Home/Linux printer server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ssh/ssh keys.md",
+                "file": "Home/Linux printer server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ssh/ssh keys.md"
+                "file": "Home/Linux printer server.md"
               }
             }
           }
@@ -162,7 +148,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "05f3890a09b2dc79",
+  "active": "761d0e9dcd5a58f4",
   "lastOpenFiles": [
     "Home/Services.md",
     "ssh/ssh keys.md",
