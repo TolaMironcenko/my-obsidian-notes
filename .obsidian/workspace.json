@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0b4afa0eb6be54f3",
+        "id": "a64e864a0a1d206a",
         "type": "tabs",
         "children": [
           {
-            "id": "761d0e9dcd5a58f4",
+            "id": "bffe776a9ce71b51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/Linux printer server.md",
+                "file": "qemu/Using bridge.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/Linux printer server.md",
+                "file": "qemu/Using bridge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/Linux printer server.md",
+                "file": "qemu/Using bridge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/Linux printer server.md"
+                "file": "qemu/Using bridge.md"
               }
             }
           }
@@ -148,15 +148,18 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "761d0e9dcd5a58f4",
+  "active": "bffe776a9ce71b51",
   "lastOpenFiles": [
+    "Home/Linux printer server.md",
+    "Home/Some to do for bubbletime application.md",
     "Home/Services.md",
+    "qemu/Using bridge.md",
+    "linux/Add new user.md",
+    "c/C Makefile template.md",
     "ssh/ssh keys.md",
     "ssh",
-    "Home/Linux printer server.md",
     "Home/Linux router.md",
     "cpp/Cpp CMakeLists.txt template.md",
-    "qemu/Using bridge.md",
     "c/C CMakeLists.txt template.md",
     "Home/GIT.md"
   ]
