@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "qemu/Using bridge.md",
+                "file": "cpp/Funcs, Classes, Structures.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dcccb9da9d25b274",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cpp/Cpp cheatcheets.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "qemu/Using bridge.md",
+                "file": "cpp/Cpp cheatcheets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "qemu/Using bridge.md",
+                "file": "cpp/Cpp cheatcheets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "qemu/Using bridge.md"
+                "file": "cpp/Cpp cheatcheets.md"
               }
             }
           }
@@ -148,19 +162,34 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "bffe776a9ce71b51",
+  "active": "dcccb9da9d25b274",
   "lastOpenFiles": [
-    "Home/Linux printer server.md",
+    "cpp/Operator overloading.md",
+    "cpp/Templates.md",
+    "cpp/Cpp cheatcheets.md",
+    "cpp/Funcs, Classes, Structures.md",
+    "Welcome.md",
     "Home/Some to do for bubbletime application.md",
-    "Home/Services.md",
-    "qemu/Using bridge.md",
-    "linux/Add new user.md",
-    "c/C Makefile template.md",
+    "Home/GIT.md",
+    "work/SNMP.md",
+    "work/Buildroot for wimic-6000U powerpc 8315.md",
+    "Templates/Python Code Template.md",
+    "Templates/List Template.md",
+    "Templates/Cpp Code Template.md",
+    "Templates/C Code Template.md",
+    "Templates/Checkboxes Template.md",
     "ssh/ssh keys.md",
-    "ssh",
+    "qemu/Using bridge.md",
+    "NeuralNetwork/Neuron.md",
+    "NeuralNetwork/Neural Network in c or c++.md",
+    "linux/Openssh install from source.md",
+    "linux/Add new user.md",
+    "javascript/Funcs, Classes.md",
+    "Buy.md",
+    "Home/Buy.md",
+    "Home/Linux printer server.md",
     "Home/Linux router.md",
-    "cpp/Cpp CMakeLists.txt template.md",
-    "c/C CMakeLists.txt template.md",
-    "Home/GIT.md"
+    "Home/Services.md",
+    "ssh"
   ]
 }
