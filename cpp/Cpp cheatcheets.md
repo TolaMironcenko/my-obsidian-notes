@@ -5,4 +5,5 @@
 - [[Cpp CMakeLists.txt template]]
 - [[Templates]]
 - [[Operator overloading]]
+- [[c++.gitlab-ci.yml example]]
 - 

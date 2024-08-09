@@ -10,6 +10,9 @@ default: all
 all: build
 
 build:
+	@if [ ! -d bin ]; then \
+		mkdir bin; \
+	fi
 	$(CXX) -o $(TARGET) $(SOURCES) $(CXXFLAGS);
 
 clean:

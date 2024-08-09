@@ -10,6 +10,9 @@ default: all
 all: build
 
 build:
+	@if [ ! -d bin ]; then \
+		mkdir bin; \
+	fi
 	$(CC) -o $(TARGET) $(SOURCES) $(CFLAGS);
 
 clean:
