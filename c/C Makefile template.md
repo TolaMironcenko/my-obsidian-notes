@@ -13,7 +13,7 @@ build:
 	@if [ ! -d bin ]; then \
 		mkdir bin; \
 	fi
-	$(CC) -o $(TARGET) $(SOURCES) $(CFLAGS);
+	$(CC) -o $(TARGET) $(SOURCES) $(CFLAGS)
 
 clean:
 	rm -v $(TARGET)

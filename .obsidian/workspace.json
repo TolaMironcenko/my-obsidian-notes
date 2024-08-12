@@ -11,8 +11,13 @@
             "id": "918daaf3d8b97145",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "cpp/Cpp Makefile template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "cpp/Cpp Makefile template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "cpp/Cpp Makefile template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "cpp/Cpp Makefile template.md"
+              }
             }
           }
         ]
@@ -141,15 +150,15 @@
   },
   "active": "918daaf3d8b97145",
   "lastOpenFiles": [
+    "c/C Makefile template.md",
+    "cpp/Cpp Makefile template.md",
+    "cpp/Operator overloading.md",
     "cpp/c++.gitlab-ci.yml example.md",
     "c/c.gitlab-ci.yml example.md",
     "c/C CMakeLists.txt template.md",
-    "c/C Makefile template.md",
     "c/C cheatcheet.md",
     "cpp/Cpp cheatcheets.md",
-    "cpp/Cpp Makefile template.md",
     "cpp/Funcs, Classes, Structures.md",
-    "cpp/Operator overloading.md",
     "cpp/Templates.md",
     "Welcome.md",
     "Home/Some to do for bubbletime application.md",
