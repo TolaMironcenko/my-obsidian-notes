@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cpp/Cpp Makefile template.md",
+                "file": "c/c.gitlab-ci.yml example.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cpp/Cpp Makefile template.md",
+                "file": "c/c.gitlab-ci.yml example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cpp/Cpp Makefile template.md",
+                "file": "c/c.gitlab-ci.yml example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cpp/Cpp Makefile template.md"
+                "file": "c/c.gitlab-ci.yml example.md"
               }
             }
           }
@@ -151,12 +151,20 @@
   "active": "918daaf3d8b97145",
   "lastOpenFiles": [
     "c/C Makefile template.md",
-    "cpp/Cpp Makefile template.md",
-    "cpp/Operator overloading.md",
-    "cpp/c++.gitlab-ci.yml example.md",
-    "c/c.gitlab-ci.yml example.md",
     "c/C CMakeLists.txt template.md",
     "c/C cheatcheet.md",
+    "Home/Linux router.md",
+    "Home/Linux printer server.md",
+    "linux/Openssh install from source.md",
+    "linux/Add new user.md",
+    "Micro80/Micro 80 info.md",
+    "c/c.gitlab-ci.yml example.md",
+    "c/a = b, b = a.md",
+    "Micro80/Micro80software.md",
+    "cpp/Operator overloading.md",
+    "cpp/Cycles.md",
+    "cpp/Cpp Makefile template.md",
+    "cpp/c++.gitlab-ci.yml example.md",
     "cpp/Cpp cheatcheets.md",
     "cpp/Funcs, Classes, Structures.md",
     "cpp/Templates.md",
@@ -168,14 +176,6 @@
     "Templates/Python Code Template.md",
     "Templates/List Template.md",
     "Templates/Cpp Code Template.md",
-    "Templates/C Code Template.md",
-    "Templates/Checkboxes Template.md",
-    "ssh/ssh keys.md",
-    "qemu/Using bridge.md",
-    "NeuralNetwork/Neuron.md",
-    "NeuralNetwork/Neural Network in c or c++.md",
-    "linux/Openssh install from source.md",
-    "linux/Add new user.md",
     "ssh"
   ]
 }
