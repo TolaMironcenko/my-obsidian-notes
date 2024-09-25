@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "72a8bc18a7c57df3",
+        "id": "e4fbae73f4e35d21",
         "type": "tabs",
         "children": [
           {
-            "id": "918daaf3d8b97145",
+            "id": "7f28e000d043c391",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "c/c.gitlab-ci.yml example.md",
+                "file": "orangepipc/Orange Pi PC + Arch Linux ARM.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "c/c.gitlab-ci.yml example.md",
+                "file": "orangepipc/Orange Pi PC + Arch Linux ARM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "c/c.gitlab-ci.yml example.md",
+                "file": "orangepipc/Orange Pi PC + Arch Linux ARM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "c/c.gitlab-ci.yml example.md"
+                "file": "orangepipc/Orange Pi PC + Arch Linux ARM.md"
               }
             }
           }
@@ -148,34 +148,39 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "918daaf3d8b97145",
+  "active": "7f28e000d043c391",
   "lastOpenFiles": [
+    "Arch linux orange.md",
+    "orangepipc/Orange Pi PC + Arch Linux ARM.md",
+    "orangepipc/e9ad9b674c571279c291b4fcf5deec33-2b2e1b6bcc93881fb65a70df8b86648714244426/Orange Pi PC + Arch Linux ARM.md",
+    "orangepipc/e9ad9b674c571279c291b4fcf5deec33-2b2e1b6bcc93881fb65a70df8b86648714244426",
+    "orangepipc/ora.zip",
+    "orangepipc/Unconfirmed 906083.crdownload",
+    "orangepipc/e9ad9b674c571279c291b4fcf5deec33",
+    "cpp/Cpp Makefile template.md",
+    "orangepipc",
     "c/C Makefile template.md",
-    "c/C CMakeLists.txt template.md",
+    "c/Structures.md",
+    "c/a = b, b = a.md",
+    "c/Memory.md",
     "c/C cheatcheet.md",
+    "c/c.gitlab-ci.yml example.md",
+    "cpp/Operator overloading.md",
+    "cpp/Funcs, Classes, Structures.md",
+    "cpp/Cycles.md",
+    "cpp/Cpp CMakeLists.txt template.md",
+    "cpp/c++.gitlab-ci.yml example.md",
+    "cpp/Cpp cheatcheets.md",
+    "c/C CMakeLists.txt template.md",
     "Home/Linux router.md",
     "Home/Linux printer server.md",
     "linux/Openssh install from source.md",
     "linux/Add new user.md",
     "Micro80/Micro 80 info.md",
-    "c/c.gitlab-ci.yml example.md",
-    "c/a = b, b = a.md",
     "Micro80/Micro80software.md",
-    "cpp/Operator overloading.md",
-    "cpp/Cycles.md",
-    "cpp/Cpp Makefile template.md",
-    "cpp/c++.gitlab-ci.yml example.md",
-    "cpp/Cpp cheatcheets.md",
-    "cpp/Funcs, Classes, Structures.md",
     "cpp/Templates.md",
     "Welcome.md",
     "Home/Some to do for bubbletime application.md",
-    "Home/GIT.md",
-    "work/SNMP.md",
-    "work/Buildroot for wimic-6000U powerpc 8315.md",
-    "Templates/Python Code Template.md",
-    "Templates/List Template.md",
-    "Templates/Cpp Code Template.md",
     "ssh"
   ]
 }
