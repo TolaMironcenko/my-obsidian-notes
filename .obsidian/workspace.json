@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "e4fbae73f4e35d21",
+        "id": "53daf3065f50bc83",
         "type": "tabs",
         "children": [
           {
-            "id": "7f28e000d043c391",
+            "id": "6d5f4173534fe120",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "orangepipc/Orange Pi PC + Arch Linux ARM.md",
+                "file": "gitlab/gitlab-runner/Local cache (bind mount).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "478bb331f21e12d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gitlab/gitlab-runner/Distributed cache.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "orangepipc/Orange Pi PC + Arch Linux ARM.md",
+                "file": "gitlab/gitlab-runner/Distributed cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "orangepipc/Orange Pi PC + Arch Linux ARM.md",
+                "file": "gitlab/gitlab-runner/Distributed cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "orangepipc/Orange Pi PC + Arch Linux ARM.md"
+                "file": "gitlab/gitlab-runner/Distributed cache.md"
               }
             }
           }
@@ -148,10 +162,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7f28e000d043c391",
+  "active": "478bb331f21e12d0",
   "lastOpenFiles": [
-    "Arch linux orange.md",
+    "gitlab/gitlab-runner/Local cache (bind mount).md",
+    "gitlab/gitlab-runner/Distributed cache.md",
+    "gitlab/gitlab-runner",
+    "gitlab",
+    "qemu/Using bridge.md",
     "orangepipc/Orange Pi PC + Arch Linux ARM.md",
+    "Arch linux orange.md",
     "orangepipc/e9ad9b674c571279c291b4fcf5deec33-2b2e1b6bcc93881fb65a70df8b86648714244426/Orange Pi PC + Arch Linux ARM.md",
     "orangepipc/e9ad9b674c571279c291b4fcf5deec33-2b2e1b6bcc93881fb65a70df8b86648714244426",
     "orangepipc/ora.zip",
@@ -178,9 +197,6 @@
     "linux/Add new user.md",
     "Micro80/Micro 80 info.md",
     "Micro80/Micro80software.md",
-    "cpp/Templates.md",
-    "Welcome.md",
-    "Home/Some to do for bubbletime application.md",
     "ssh"
   ]
 }
