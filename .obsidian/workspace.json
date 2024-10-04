@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ec03288e68d7550e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vim shortcuts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gitlab/gitlab-runner/Distributed cache.md",
+                "file": "vim shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gitlab/gitlab-runner/Distributed cache.md",
+                "file": "vim shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gitlab/gitlab-runner/Distributed cache.md"
+                "file": "vim shortcuts.md"
               }
             }
           }
@@ -162,10 +175,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "478bb331f21e12d0",
+  "active": "ec03288e68d7550e",
   "lastOpenFiles": [
-    "gitlab/gitlab-runner/Local cache (bind mount).md",
     "gitlab/gitlab-runner/Distributed cache.md",
+    "vim shortcuts.md",
+    "vim",
+    "gitlab/gitlab-runner/Local cache (bind mount).md",
     "gitlab/gitlab-runner",
     "gitlab",
     "qemu/Using bridge.md",
@@ -196,7 +211,6 @@
     "linux/Openssh install from source.md",
     "linux/Add new user.md",
     "Micro80/Micro 80 info.md",
-    "Micro80/Micro80software.md",
     "ssh"
   ]
 }
