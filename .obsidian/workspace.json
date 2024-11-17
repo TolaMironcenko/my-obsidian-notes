@@ -4,53 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "48e43a4fa4971a92",
+        "id": "67e5f0e90f0964d7",
         "type": "tabs",
         "children": [
           {
-            "id": "7f7828515993e0ab",
+            "id": "dc6ba046ddaa2405",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "c/C Makefile template.md",
+                "file": "shell/Shell cheatcheets.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C Makefile template"
-            }
-          },
-          {
-            "id": "cc8916d693503889",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
-            }
-          },
-          {
-            "id": "8c20083a711def12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "xtow/x -> w.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "x -> w"
+              "title": "Shell cheatcheets"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "c/C Makefile template.md",
+                "file": "shell/Shell cheatcheets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C Makefile template"
+              "title": "Backlinks for Shell cheatcheets"
             }
           },
           {
@@ -141,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "c/C Makefile template.md",
+                "file": "shell/Shell cheatcheets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from C Makefile template"
+              "title": "Outgoing links from Shell cheatcheets"
             }
           },
           {
@@ -168,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "c/C Makefile template.md"
+                "file": "shell/Shell cheatcheets.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of C Makefile template"
+              "title": "Outline of Shell cheatcheets"
             }
           }
         ]
@@ -192,8 +164,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "8c20083a711def12",
+  "active": "dc6ba046ddaa2405",
   "lastOpenFiles": [
+    "cpp/Cpp cheatcheets.md",
+    "shell/Shell cheatcheets.md",
+    "shell",
+    "c/C Makefile template.md",
     "xtow/x -> w.md",
     "xtow",
     "gitlab/gitlab-runner/Local cache (bind mount).md",
@@ -214,7 +190,6 @@
     "orangepipc/e9ad9b674c571279c291b4fcf5deec33",
     "cpp/Cpp Makefile template.md",
     "orangepipc",
-    "c/C Makefile template.md",
     "c/Structures.md",
     "c/a = b, b = a.md",
     "c/Memory.md",
@@ -225,10 +200,7 @@
     "cpp/Cycles.md",
     "cpp/Cpp CMakeLists.txt template.md",
     "cpp/c++.gitlab-ci.yml example.md",
-    "cpp/Cpp cheatcheets.md",
     "c/C CMakeLists.txt template.md",
-    "linux/Openssh install from source.md",
-    "linux/Add new user.md",
-    "ssh"
+    "linux/Openssh install from source.md"
   ]
 }
